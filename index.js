@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-    HmacSigningUtil: require('./lib/HmacSigner')
+    HmacSigningUtil: require('./lib/HmacSigningUtil')
 };
