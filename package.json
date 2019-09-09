@@ -1,0 +1,30 @@
+{
+  "name": "gems-kong-node-hmac-signer",
+  "version": "0.0.1",
+  "description": "GEMS Kong Hmac HTTP Signature Utility",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "^10.16.x"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robincher/gems-kong-node-hmac-signer.git"
+  },
+  "keywords": [
+    "hmac",
+    "kong"
+  ],
+  "author": "Robin Cher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robincher/gems-kong-node-hmac-signer/issues"
+  },
+  "homepage": "https://github.com/robincher/gems-kong-node-hmac-signer#readme"
+}
